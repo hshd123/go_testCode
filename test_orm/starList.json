@@ -1,0 +1,62 @@
+[
+  {
+    "starName" : "白羊座",
+    "time" : "3.21-4.19",
+    "imageName" : "白羊座"
+  },
+  {
+    "starName" : "金牛座",
+    "time" : "4.20-5.20",
+    "imageName" : "金牛座"
+  },
+  {
+    "starName" : "双子座",
+    "time" : "5.21-6.21",
+    "imageName" : "双子座"
+  },
+  {
+    "starName" : "巨蟹座",
+    "time" : "6.22-7.22",
+    "imageName" : "巨蟹座"
+  },
+  {
+    "starName" : "狮子座",
+    "time" : "7.23-8.22",
+    "imageName" : "狮子座"
+  },
+  {
+    "starName" : "处女座",
+    "time" : "8.23-9.22",
+    "imageName" : "处女座"
+  },
+  {
+    "starName" : "天秤座",
+    "time" : "9.23-10.23",
+    "imageName" : "天秤座"
+  },
+  {
+    "starName" : "天蝎座",
+    "time" : "10.24-11.22",
+    "imageName" : "天蝎座"
+  },
+  {
+    "starName" : "射手座",
+    "time" : "11.23-12.21",
+    "imageName" : "射手座"
+  },
+  {
+    "starName" : "摩羯座",
+    "time" : "12.22-1.19",
+    "imageName" : "摩羯座"
+  },
+  {
+    "starName" : "水瓶座",
+    "time" : "1.20-2.18",
+    "imageName" : "水瓶座"
+  },
+  {
+    "starName" : "双鱼座",
+    "time" : "2.19-3.20",
+    "imageName" : "双鱼座"
+  }
+]
